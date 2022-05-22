@@ -11,8 +11,16 @@ a {
   text-decoration: none;
 }
 
+header {
+  min-height: 3vh
+}
+
+footer {
+  min-height: 3vh
+}
+
 .main {
-  min-height: 100vh;
+  min-height: 94vh;
   flex: 1;
   display: flex;
   justify-content: flex-start;
